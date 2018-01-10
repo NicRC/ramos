@@ -54,7 +54,7 @@
 		["Fundamento del Control Industrial", "IWQ350", 4, "ICQ", ["IWQ223"]],	
 		["Gestión de Investigación de Operaciones", "ILN250", 4, "IND", ["IWQ214"]],
 		["Electivo 1", "ICQ1", 3, "EL"],
-		["Introducción a la Microbiologia", "IWQ261", 3, "ICQ"],
+		["Introducción a la Microbiologia", "IWQ261", 3, "ICQ",["QUI010"]],
 		["Economia I-A", "IWN170", 3, "IND", ["MAT023"]],
 		["Taller de Ingeniería Química", "IWQ382", 1, "TIT"]
 	],
